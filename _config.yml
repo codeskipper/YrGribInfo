@@ -1,0 +1,5 @@
+title: "YrGrib pages"               # Page title
+description: "Get the best weather data for your sailing trip in Norway in the best GRIB viewer app."     # Subtitle/tagline
+github:
+  repository_name: false             # Hide repo name
+theme: jekyll-theme-minimal          # or your theme choice
