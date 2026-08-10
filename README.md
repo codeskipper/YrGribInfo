@@ -10,3 +10,4 @@ YrGrib is available for both iPhone, iPad and Mac.
 
 - [Support](Support.md)
 - [Privacy](Privacy.md)
+- [FAQ](FAQ.md)
