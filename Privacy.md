@@ -8,4 +8,4 @@ We use TelemetryDeck to collect anonymized usage data. This helps us understand 
 TelemetryDeck does not collect any personally identifiable information.
 All data sent is fully anonymized and cannot be traced back to any individual.
 
-You can read more in [https://telemetrydeck.com/privacy](TelemetryDeck's Privacy Policy).
+You can read more in [TelemetryDeck's Privacy Policy](https://telemetrydeck.com/privacy).
