@@ -1,6 +1,4 @@
-# YrGrib 
-
-Get the best weather data for your sailing trip in Norway in the best GRIB viewer app.
+## Get the best weather data for your sailing trip in Norway in the best GRIB viewer app.
 
 YrGrib is a companion app for sailors to fetch weather model data ([MEPS](https://docs.api.met.no/doc/locationforecast/datamodel.html)) from the Norwegian Meteorological Institute [api.met.no](api.met.no) for a GRIB viewer app.  Wind data is normally used, you can alternately select current or wave data.
 
