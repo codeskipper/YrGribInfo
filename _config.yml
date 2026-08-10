@@ -3,4 +3,5 @@ description: "Get the best weather data for your sailing trip in Norway in the b
 github:
   repository_url: false              # Hide repo URL link
   repository_name: false             # Hide repo name
+  is_project_page: false              # Prevent GitHub project page link
 theme: jekyll-theme-minimal          # or your theme choice
